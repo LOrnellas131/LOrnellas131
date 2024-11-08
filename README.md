@@ -1,4 +1,3 @@
-<html lang="en">
 <h1>Hello World, my name is Lucas da Silva Ornellas</h1>
 <h2>"Who are you?"
   <br>I guess many words can describe me, however, i'm still looking to develop myself even more:</h2>
