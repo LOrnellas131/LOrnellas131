@@ -10,7 +10,6 @@
 - 🍝 Favorite food: Pasta (with lots of cheese)
 - 😀 Enjoys: Games in general (mainly RPGs)
 - 🎮 Favorite franchise: Pokemon or Kirby (can't decide)
-- 📺 Currently watching: JJBA (part 6)
 - 💙 Best color: Blue (this is not an opinion)
 - 🧩 Best time on Rubik's Cube: 4 minutes and 22 seconds
 - 🎨 Want to learn: Aside from programming, how to cook and to draw
@@ -20,9 +19,13 @@
   <br>"good" traits are very relative, so I'm gonna list some:</h2>
 
 - ⏱ Fast learning capacity
-- 💻 Skills with HTML, CSS, JS and JAVA
-- 📖 Advanced English and Brazilian Portuguese / intermediate Spanish
-  
+- 📖 Knowledge in English, Brazilian Portuguese and Spanish
+<div align="center">
+<h3><b>Programation related:</b></h3>
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=LOrnellas131&show_icons=true&ring_color=FF8C00&theme=transparent">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOrnellas131&theme=transparent">
+</div>
+
 <br>
 <h2>"What are your biggest achievements?"
   <br>Some achievements may seem significant, while others are more personal, but here they are:</h2>
